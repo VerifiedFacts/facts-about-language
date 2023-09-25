@@ -1,1 +1,22 @@
-# facts-about-language
+# Language
+
+- [Japanese speakers speak faster as compared to any other language while mandarin speakers speak slower.](https://thefactbase.com/japanese-speakers-speak-faster-as-compared-to-any-other-language-while-mandarin-speakers-speak-slower)
+- [People who speak Chinese use both sides of the brain, whereas English only uses the left side.](https://thefactbase.com/people-who-speak-chinese-use-both-sides-of-the-brain-whereas-english-only-uses-the-left-side)
+- ["Rhythm" is the longest English word without a vowel.](https://thefactbase.com/rhythm-is-the-longest-english-word-without-a-vowel)
+- [Multiple studies have shown that learning a second language can improve the memory and slow the process of aging. This is one of our favorite language facts!](https://thefactbase.com/multiple-studies-have-shown-that-learning-a-second-language-can-improve-the-memory-and-slow-the-process-of-aging-this-is-one-of-our-favorite-language-facts)
+- [The United States has no "official language." Most people just assume it's English.](https://thefactbase.com/the-united-states-has-no-official-language-most-people-just-assume-it-s-english)
+- [The top 5 countries with the most English language speakers are the United States, India, Pakistan, the Philippines, and Nigeria.](https://thefactbase.com/the-top-5-countries-with-the-most-english-language-speakers-are-the-united-states-india-pakistan-the-philippines-and-nigeria)
+- [Basque is the only language in the world that has no correlation to any other language.](https://thefactbase.com/basque-is-the-only-language-in-the-world-that-has-no-correlation-to-any-other-language)
+- [Chinese is over 3,000 years old and one of the oldest written languages in the world.](https://thefactbase.com/chinese-is-over-3-000-years-old-and-one-of-the-oldest-written-languages-in-the-world)
+- [Almost all languages in the world have been influenced by another language.](https://thefactbase.com/almost-all-languages-in-the-world-have-been-influenced-by-another-language)
+- [Afrikaans is also known as "the Dutch daughter" of the Germanic languages, as it evolved from Dutch and 90% of its vocabulary comes from Dutch.](https://thefactbase.com/afrikaans-is-also-known-as-the-dutch-daughter-of-the-germanic-languages-as-it-evolved-from-dutch-and-90-of-its-vocabulary-comes-from-dutch)
+- ["Go." is the shortest sentence in the English language.](https://thefactbase.com/go-is-the-shortest-sentence-in-the-english-language)
+- [Other than English, French is the only language taught in every country.](https://thefactbase.com/other-than-english-french-is-the-only-language-taught-in-every-country)
+- [Twenty-one countries have Spanish as their official language, making it a great choice for travelers.](https://thefactbase.com/twenty-one-countries-have-spanish-as-their-official-language-making-it-a-great-choice-for-travelers)
+- [The Japanese language doesn’t have plurals the way English does. Plural words are not individual words, but a combination of the word plus a number and/or counter before it.](https://thefactbase.com/the-japanese-language-doesn-t-have-plurals-the-way-english-does-plural-words-are-not-individual-words-but-a-combination-of-the-word-plus-a-number-and-or-counter-before-it)
+- [The non-European languages most widely spoken in Europe are Arabic, Chinese, and Hindi.](https://thefactbase.com/the-non-european-languages-most-widely-spoken-in-europe-are-arabic-chinese-and-hindi)
+- [In the English language, more words start with "s" than any other letter.](https://thefactbase.com/in-the-english-language-more-words-start-with-s-than-any-other-letter)
+- [The so-called "Southern accent" in the United States today only began to form after the Civil War.](https://thefactbase.com/the-so-called-southern-accent-in-the-united-states-today-only-began-to-form-after-the-civil-war)
+- [The word "goodbye" is a combination or contraction of "God be with you."](https://thefactbase.com/the-word-goodbye-is-a-combination-or-contraction-of-god-be-with-you)
+- [2,400 of the world's languages are in danger of becoming extinct and about one language becomes extinct every two weeks.](https://thefactbase.com/2-400-of-the-world-s-languages-are-in-danger-of-becoming-extinct-and-about-one-language-becomes-extinct-every-two-weeks)
+- [The United States has 24 different English dialects.](https://thefactbase.com/the-united-states-has-24-different-english-dialects)
